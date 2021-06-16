@@ -1,0 +1,4 @@
+br\com\afett\arquillianbank\daos\AccountDAO.class
+br\com\afett\arquillianbank\mb\AccountsMB.class
+br\com\afett\arquillianbank\entities\Account.class
+br\com\afett\arquillianbank\App.class
